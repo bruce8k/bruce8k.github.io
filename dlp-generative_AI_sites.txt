@@ -197,7 +197,6 @@ deepl.com/write
 deepmind.com
 deepmind.google
 deepmotion.com
-deepseek.com
 deforum.github.io
 derwen.ai
 descript.com
